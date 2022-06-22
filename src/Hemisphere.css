@@ -1,0 +1,16 @@
+.Norte{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #EE82EE;
+}
+
+.Sur{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #7FFFD4;
+}
+
